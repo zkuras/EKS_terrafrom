@@ -1,2 +1,1 @@
-# EKS_terrafrom
-Rks_modulie
+# terraform-class-april-2020
